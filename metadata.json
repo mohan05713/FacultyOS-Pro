@@ -1,0 +1,6 @@
+{
+  "name": "FacultyOS",
+  "description": "Advanced Faculty Management and Teacher Productivity System for college professors, HODs, coordinators, and mentors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
